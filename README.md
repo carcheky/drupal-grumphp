@@ -10,7 +10,7 @@ composer config extra.grumphp --json '{"config-default-path": "vendor/carcheky/d
 
 ```
 composer config extra.grumphp --json '{"config-default-path": "vendor/carcheky/drupal-grumphp/configs/grumphp.yml"}' ;
-composer require --dev hinternet/drupal-grumphp -W
+composer require --dev carcheky/drupal-grumphp -W
 ```
 
 
