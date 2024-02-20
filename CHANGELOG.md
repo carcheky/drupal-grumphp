@@ -1,3 +1,10 @@
+## [3.0.6](https://github.com/carcheky/drupal-grumphp/compare/v3.0.5...v3.0.6) (2024-02-20)
+
+
+### Bug Fixes
+
+* Update README.md ([3a05b99](https://github.com/carcheky/drupal-grumphp/commit/3a05b99210360f242d9dcfd26e9caaad5436c1c8))
+
 ## [3.0.5](https://github.com/carcheky/drupal-grumphp/compare/v3.0.4...v3.0.5) (2024-02-20)
 
 
