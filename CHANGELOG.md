@@ -1,3 +1,10 @@
+## [3.0.7](https://github.com/carcheky/drupal-grumphp/compare/v3.0.6...v3.0.7) (2024-02-20)
+
+
+### Bug Fixes
+
+* phpstan level 3 ([3a2f759](https://github.com/carcheky/drupal-grumphp/commit/3a2f75966920c9010c9977bdd8329ca82042220b))
+
 ## [3.0.6](https://github.com/carcheky/drupal-grumphp/compare/v3.0.5...v3.0.6) (2024-02-20)
 
 
