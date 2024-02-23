@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/carcheky/drupal-grumphp/compare/v3.0.7...v3.1.0) (2024-02-23)
+
+
+### Features
+
+* added "drupal/coder": "*" ([02e76a3](https://github.com/carcheky/drupal-grumphp/commit/02e76a321d3984c834a5097ed66c254641400b90))
+
 ## [3.0.7](https://github.com/carcheky/drupal-grumphp/compare/v3.0.6...v3.0.7) (2024-02-20)
 
 
